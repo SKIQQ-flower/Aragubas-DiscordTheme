@@ -24,17 +24,17 @@
 
 */
 
-@use "./server-list.css";
-@use "./user-profile.css";
-@use "./context-menus.css";
-@use "./dialogs.css";
-@use "./bottomBar-layout.css";
-@use "./topBar-layout.css";
-@use "./popups.css";
-@use "./small-fixes.css";
-@use "./settings.css";
-@use "./create-server-dialog.css";
-@use "./color-scheme.css";
+@import "./server-list.css";
+@import "./user-profile.css";
+@import "./context-menus.css";
+@import "./dialogs.css";
+@import "./bottomBar-layout.css";
+@import "./topBar-layout.css";
+@import "./popups.css";
+@import "./small-fixes.css";
+@import "./settings.css";
+@import "./create-server-dialog.css";
+@import "./color-scheme.css";
 
 // Variables for Color Scheme, Gradients and Spaces::: root,
 :root,
